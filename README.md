@@ -222,7 +222,7 @@ No other files need to change.
 
 ## Tech Stack
 
-- **Language:** Core Java (JDK 8+)
+- **Language:** Core Java 
 - **HTTP:** `java.net.HttpURLConnection` (no external libraries)
 - **JSON Parsing:** Custom lightweight parser (no Gson/Jackson dependency)
 - **Logging:** `java.io.FileWriter` + `PrintWriter`
